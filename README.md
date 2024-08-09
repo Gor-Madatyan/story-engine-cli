@@ -25,4 +25,4 @@ The full existing docs can be found in [Wiki][1], it will actively grow in sync 
 
 The project is licensed under **GNU AFFERO GENERAL PUBLIC LICENSE Version 3**.
 
-[1]: https://github.com/Gor-Madatyan/story-engine-cli/wiki
+[1]: ../../wiki
